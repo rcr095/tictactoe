@@ -17,7 +17,7 @@ mvn spring-boot:run
 
 #### Using Docker:
 
-Use terminal to navigat to the project path:
+Use terminal to navigate to the project path:
 ```shell
 docker compose up
 ```
